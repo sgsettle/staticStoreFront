@@ -43,6 +43,10 @@ body {
     margin-top: 20px;
 }
 
+.nav {
+    color: #f81818
+}
+
 #navLinks {
     text-decoration: none;
     color: #f81818;
